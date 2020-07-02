@@ -1,2 +1,4 @@
 # hello-world
-hello my name is nabin and i want to learn about github
+hi! humans
+Nabin's here and i want to know about js
+
